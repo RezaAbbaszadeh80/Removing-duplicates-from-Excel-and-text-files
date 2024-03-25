@@ -18,8 +18,12 @@ This Python script provides a graphical user interface (GUI) for removing duplic
 ## Installation
 Before running the script, ensure you have the required packages installed:
 ```bash
-pip install keyboard pandas pyinstaller xlrd
-
+pip install 
+# pip install keyboard
+# pip install pandas
+# pip install pyinstaller
+# pip install xlrd
+```
 
 ## Usage
 
