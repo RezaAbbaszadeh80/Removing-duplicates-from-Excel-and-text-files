@@ -1,0 +1,15 @@
+text = "This is This an example of with words inside brackets ."
+sentence1 = "این یک نمونه جمله با و است"
+sentence2 = "آیا این علامتها تکراری هستند؟"
+sentence3 = "متن با نیم‌فاصله یکمی دیگر... تکراری"
+sentence4 = " تست این یک متن با علامت می باشد"
+sentence5 = "این متن دارای کلمات تکرای با آکولاد و براکت پرانتز می باشد که نماد آن ها نوشته شده است"
+
+
+
+text = "This is This an example of with words inside brackets." brackets ."
+sentence1 = "This is a sample example sentence with and "
+sentence2 = "Are these marks duplicates?"
+sentence3 = "Text with another half space... repeated"
+sentence4 = " test This is a text with sign"
+sentence5 = "This text contains repeated words with braces brackets and parentheses whose symbols are bracket bracket"
