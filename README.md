@@ -9,8 +9,6 @@ This program takes an excel or text file from the same notepad and deletes dupli
 - [Usage](#usage)
 - [Functionality](#functionality)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This Python script provides a graphical user interface (GUI) for removing duplicate rows from Excel and text files. It utilizes Tkinter for the GUI, Pandas for data manipulation, and keyboard for implementing keyboard shortcuts.
@@ -45,7 +43,3 @@ Functionality
     Windows:
         Ctrl+Z: Undo changes.
         Ctrl+A: Select all text in the result box.
-
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request on GitHub.
