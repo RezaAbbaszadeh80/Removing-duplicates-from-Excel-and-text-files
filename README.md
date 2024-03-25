@@ -18,7 +18,6 @@ This Python script provides a graphical user interface (GUI) for removing duplic
 ## Installation
 Before running the script, ensure you have the required packages installed:
 ```bash
-pip install 
 # pip install keyboard
 # pip install pandas
 # pip install pyinstaller
@@ -41,12 +40,12 @@ Functionality
     Filtering Values:
         Provides an entry widget to filter values based on a custom pattern.
 
-Keyboard Shortcuts
+## Keyboard Shortcuts
 
     Windows:
         Ctrl+Z: Undo changes.
         Ctrl+A: Select all text in the result box.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request on GitHub.
